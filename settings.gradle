@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Eyes Patch"
 include ':app'
+include ':sdk'
+include ':sdk'
+include ':sdk'
